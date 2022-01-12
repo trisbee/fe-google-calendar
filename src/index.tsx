@@ -1,4 +1,4 @@
-import { queryParams, QueryParams } from './utils/queryParams';
+import { queryParams, QueryParams } from './utils/query-params';
 import getUrlOfAllCalendars from "./utils/get-url";
 
 interface Props {
